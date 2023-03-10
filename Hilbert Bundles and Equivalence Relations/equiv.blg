@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'equiv.blg'
+[67] biber:340> INFO - === Thu Mar  9, 2023, 23:47:41
+[78] Biber.pm:418> INFO - Reading 'equiv.bcf'
+[127] Biber.pm:972> INFO - Found 1 citekeys in bib section 0
+[137] Biber.pm:4383> INFO - Processing section 0
+[146] Biber.pm:4574> INFO - Looking for bibtex file '/home/kyrem1/Mathematics/Research/defrig.bib' for section 0
+[147] bibtex.pm:1713> INFO - LaTeX decoding ...
+[151] bibtex.pm:1518> INFO - Found BibTeX data source '/home/kyrem1/Mathematics/Research/defrig.bib'
+[182] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[182] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[183] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[183] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[187] bbl.pm:654> INFO - Writing 'equiv.bbl' with encoding 'UTF-8'
+[188] bbl.pm:757> INFO - Output to equiv.bbl

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2023.3.7)  9 MAR 2023 20:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2023.3.7)  10 MAR 2023 00:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -358,9 +358,231 @@ LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
 (Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
 LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
 (Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
-) (/usr/share/texmf-dist/tex/latex/forest/forest.sty
+) (/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
+ (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count296
+) (/usr/share/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count297
+ (/usr/share/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count298
+\c@listtotal=\count299
+\c@listcount=\count300
+\c@liststart=\count301
+\c@liststop=\count302
+\c@citecount=\count303
+\c@citetotal=\count304
+\c@multicitecount=\count305
+\c@multicitetotal=\count306
+\c@instcount=\count307
+\c@maxnames=\count308
+\c@minnames=\count309
+\c@maxitems=\count310
+\c@minitems=\count311
+\c@citecounter=\count312
+\c@maxcitecounter=\count313
+\c@savedcitecounter=\count314
+\c@uniquelist=\count315
+\c@uniquename=\count316
+\c@refsection=\count317
+\c@refsegment=\count318
+\c@maxextratitle=\count319
+\c@maxextratitleyear=\count320
+\c@maxextraname=\count321
+\c@maxextradate=\count322
+\c@maxextraalpha=\count323
+\c@abbrvpenalty=\count324
+\c@highnamepenalty=\count325
+\c@lownamepenalty=\count326
+\c@maxparens=\count327
+\c@parenlevel=\count328
+\blx@tempcnta=\count329
+\blx@tempcntb=\count330
+\blx@tempcntc=\count331
+\c@blx@maxsection=\count332
+\c@blx@maxsegment@0=\count333
+\blx@notetype=\count334
+\blx@parenlevel@text=\count335
+\blx@parenlevel@foot=\count336
+\c@blx@sectionciteorder@0=\count337
+\blx@entrysetcounter=\count338
+\blx@biblioinstance=\count339
+\labelnumberwidth=\skip67
+\labelalphawidth=\skip68
+\biblabelsep=\skip69
+\bibitemsep=\skip70
+\bibnamesep=\skip71
+\bibinitsep=\skip72
+\bibparsep=\skip73
+\bibhang=\skip74
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language87
+\c@mincomprange=\count340
+\c@maxcomprange=\count341
+\c@mincompwidth=\count342
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count343
+\c@savedafterword=\count344
+\c@annotator=\count345
+\c@savedannotator=\count346
+\c@author=\count347
+\c@savedauthor=\count348
+\c@bookauthor=\count349
+\c@savedbookauthor=\count350
+\c@commentator=\count351
+\c@savedcommentator=\count352
+\c@editor=\count353
+\c@savededitor=\count354
+\c@editora=\count355
+\c@savededitora=\count356
+\c@editorb=\count357
+\c@savededitorb=\count358
+\c@editorc=\count359
+\c@savededitorc=\count360
+\c@foreword=\count361
+\c@savedforeword=\count362
+\c@holder=\count363
+\c@savedholder=\count364
+\c@introduction=\count365
+\c@savedintroduction=\count366
+\c@namea=\count367
+\c@savednamea=\count368
+\c@nameb=\count369
+\c@savednameb=\count370
+\c@namec=\count371
+\c@savednamec=\count372
+\c@translator=\count373
+\c@savedtranslator=\count374
+\c@shortauthor=\count375
+\c@savedshortauthor=\count376
+\c@shorteditor=\count377
+\c@savedshorteditor=\count378
+\c@labelname=\count379
+\c@savedlabelname=\count380
+\c@institution=\count381
+\c@savedinstitution=\count382
+\c@lista=\count383
+\c@savedlista=\count384
+\c@listb=\count385
+\c@savedlistb=\count386
+\c@listc=\count387
+\c@savedlistc=\count388
+\c@listd=\count389
+\c@savedlistd=\count390
+\c@liste=\count391
+\c@savedliste=\count392
+\c@listf=\count393
+\c@savedlistf=\count394
+\c@location=\count395
+\c@savedlocation=\count396
+\c@organization=\count397
+\c@savedorganization=\count398
+\c@origlocation=\count399
+\c@savedoriglocation=\count400
+\c@origpublisher=\count401
+\c@savedorigpublisher=\count402
+\c@publisher=\count403
+\c@savedpublisher=\count404
+\c@language=\count405
+\c@savedlanguage=\count406
+\c@origlanguage=\count407
+\c@savedoriglanguage=\count408
+\c@pageref=\count409
+\c@savedpageref=\count410
+\shorthandwidth=\skip75
+\shortjournalwidth=\skip76
+\shortserieswidth=\skip77
+\shorttitlewidth=\skip78
+\shortauthorwidth=\skip79
+\shorteditorwidth=\skip80
+\locallabelnumberwidth=\skip81
+\locallabelalphawidth=\skip82
+\localshorthandwidth=\skip83
+\localshortjournalwidth=\skip84
+\localshortserieswidth=\skip85
+\localshorttitlewidth=\skip86
+\localshortauthorwidth=\skip87
+\localshorteditorwidth=\skip88
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+\c@textcitecount=\count411
+\c@textcitetotal=\count412
+\c@textcitemaxnames=\count413
+\c@biburlbigbreakpenalty=\count414
+\c@biburlbreakpenalty=\count415
+\c@biburlnumpenalty=\count416
+\c@biburlucpenalty=\count417
+\c@biburllcpenalty=\count418
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count419
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count420
+\c@bbx:relatedtotal=\count421
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2022/02/02 v3.17 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2022-04-10 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (/usr/share/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
+)) (/usr/share/texmf-dist/tex/latex/forest/forest.sty
 Package: forest 2017/07/14 v2.1.5 Drawing (linguistic) trees
- (/usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+ (/usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks30
 \pgfutil@tempdima=\dimen175
 \pgfutil@tempdimb=\dimen176
@@ -388,18 +610,17 @@ Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@yc=\dimen184
 \pgf@xd=\dimen185
 \pgf@yd=\dimen186
-\w@pgf@writea=\write3
-\r@pgf@reada=\read2
-\c@pgf@counta=\count296
-\c@pgf@countb=\count297
-\c@pgf@countc=\count298
-\c@pgf@countd=\count299
+\w@pgf@writea=\write4
+\r@pgf@reada=\read3
+\c@pgf@counta=\count422
+\c@pgf@countb=\count423
+\c@pgf@countc=\count424
+\c@pgf@countd=\count425
 \t@pgf@toka=\toks34
 \t@pgf@tokb=\toks35
 \t@pgf@tokc=\toks36
-\pgf@sys@id@count=\count300
-
-(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+\pgf@sys@id@count=\count426
+ (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
 Driver file for pgf: pgfsys-pdftex.def
@@ -409,8 +630,8 @@ File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
 File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 ))) (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count301
-\pgfsyssoftpath@bigbuffer@items=\count302
+\pgfsyssoftpath@smallbuffer@items=\count427
+\pgfsyssoftpath@bigbuffer@items=\count428
 ) (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )) (/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
@@ -432,13 +653,14 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
 Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
  (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen187
-\pgfmath@count=\count303
+\pgfmath@count=\count429
 \pgfmath@box=\box102
 \pgfmath@toks=\toks37
 \pgfmath@stack@operand=\toks38
 \pgfmath@stack@operation=\toks39
-) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count304
+) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count430
 )) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@picminx=\dimen188
@@ -468,9 +690,8 @@ File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfpic=\box103
 \pgf@hbox=\box104
 \pgf@layerbox@main=\box105
-\pgf@picture@serial@count=\count305
-)
-(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+\pgf@picture@serial@count=\count431
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgflinewidth=\dimen262
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
@@ -490,8 +711,8 @@ File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@max=\dimen267
-\pgf@sys@shading@range@num=\count306
-\pgf@shadingcount=\count307
+\pgf@sys@shading@range@num=\count432
+\pgf@shadingcount=\count433
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
  (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
@@ -516,7 +737,8 @@ Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@nodesepend=\dimen269
 ) (/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
-)) (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/share/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+))
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/share/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
  (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
 \pgffor@iter=\dimen270
@@ -527,7 +749,7 @@ Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
  (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count308
+\pgf@plot@mark@count=\count434
 \pgfplotmarksize=\dimen272
 )
 \tikz@lastx=\dimen273
@@ -542,19 +764,18 @@ File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \tikz@figbox@bg=\box109
 \tikz@tempbox=\box110
 \tikz@tempbox@bg=\box111
-\tikztreelevel=\count309
-\tikznumberofchildren=\count310
-\tikznumberofcurrentchild=\count311
-\tikz@fig@count=\count312
+\tikztreelevel=\count435
+\tikznumberofchildren=\count436
+\tikznumberofcurrentchild=\count437
+\tikz@fig@count=\count438
  (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count313
-\pgfmatrixcurrentcolumn=\count314
-\pgf@matrix@numberofcolumns=\count315
+\pgfmatrixcurrentrow=\count439
+\pgfmatrixcurrentcolumn=\count440
+\pgf@matrix@numberofcolumns=\count441
 )
-\tikz@expandcount=\count316
-
-(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+\tikz@expandcount=\count442
+ (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))) (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
 File: tikzlibraryshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
@@ -576,7 +797,8 @@ File: tikzlibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 File: pgflibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )) (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.callouts.code.tex (/usr/share/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.code.tex)) (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex
 File: tikzlibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
- (/usr/share/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
+
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfnodepartlowerbox=\box112
 \pgfnodeparttwobox=\box113
@@ -603,56 +825,52 @@ File: tikzlibraryfit.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryintersections.code.tex (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
-\pgf@intersect@solutions=\count317
+\pgf@intersect@solutions=\count443
 ) (/usr/share/texmf-dist/tex/latex/pgfopts/pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
 \pgfopts@list@add@a@toks=\toks42
 \pgfopts@list@add@b@toks=\toks43
-) (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count318
 ) (/usr/share/texmf-dist/tex/latex/elocalloc/elocalloc.sty
 Package: elocalloc 2016/12/15 v0.03 local allocation for LaTeX 2015+ (DPC)
 ) (/usr/share/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
  (/usr/share/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
-))
-(/usr/share/texmf-dist/tex/latex/inlinedef/inlinedef.sty
+)) (/usr/share/texmf-dist/tex/latex/inlinedef/inlinedef.sty
 Package: inlinedef 2008/07/10 v1.0 Inlined expansions within definitions
 \ID@toks=\toks44
-\ID@count=\count319
+\ID@count=\count444
 )
 \ID@usercommands=\toks45
-\safeloop@depth=\count320
-\safeRKloop@depth=\count321
+\safeloop@depth=\count445
+\safeRKloop@depth=\count446
 \forest@temp@dimen=\dimen281
-\forest@temp@count=\count322
-\forest@n=\count323
-\forest@temp@global@count=\count324
+\forest@temp@count=\count447
+\forest@n=\count448
+\forest@temp@global@count=\count449
 \forest@temp@toks=\toks46
-\forest@temparray@M=\count325
-\forest@temparray@N=\count326
-\forest@global@temparray@M=\count327
-\forest@global@temparray@N=\count328
-\forest@isnum@count=\count329
-\forest@isdim@nonintpart=\count330
+\forest@temparray@M=\count450
+\forest@temparray@N=\count451
+\forest@global@temparray@M=\count452
+\forest@global@temparray@N=\count453
+\forest@isnum@count=\count454
+\forest@isdim@nonintpart=\count455
 \forest@isdim@dimen=\dimen282
-\forest@sort@m=\count331
-\forest@sort@k=\count332
-\forest@sort@p=\count333
+\forest@sort@m=\count456
+\forest@sort@k=\count457
+\forest@sort@p=\count458
 \bracket@content=\toks47
 \bracket@afterthought=\toks48
-\forest@node@maxid=\count334
-\forest@process@left@M=\count335
-\forest@process@left@N=\count336
-\forest@process@right@M=\count337
-\forest@process@right@N=\count338
-\forest@process@saved@M=\count339
-\forest@process@saved@N=\count340
-\forest@process@result@M=\count341
-\forest@process@result@N=\count342
-\forest@process@n=\count343
+\forest@node@maxid=\count459
+\forest@process@left@M=\count460
+\forest@process@left@N=\count461
+\forest@process@right@M=\count462
+\forest@process@right@N=\count463
+\forest@process@saved@M=\count464
+\forest@process@saved@N=\count465
+\forest@process@result@M=\count466
+\forest@process@result@N=\count467
+\forest@process@n=\count468
 \forest@nodewalk@branch@toks=\toks49
 \forest@nodewalk@shortsteps@resolution=\toks50
 \forest@do@dynamics=\toks51
@@ -665,53 +883,56 @@ Package: inlinedef 2008/07/10 v1.0 Inlined expansions within definitions
 \forest@segment@toks=\toks53
 \forest@PIi@toks=\toks54
 \forest@PIii@toks=\toks55
-\forest@copy@in=\read3
-\forest@copy@out=\write4
-\forest@externalize@max@outer@n=\count344
-\forest@externalize@inner@n=\count345
+\forest@copy@in=\read4
+\forest@copy@out=\write5
+\forest@externalize@max@outer@n=\count469
+\forest@externalize@inner@n=\count470
 ) (/usr/share/texmf-dist/tex/latex/forest/forest-lib-linguistics.sty
 Package: forest-lib-linguistics 2017/07/14 v0.1.2
 \standardnodestrutbox=\box133
 )
-\c@definition=\count346
-\c@lemma=\count347
-\c@corollary=\count348
-\c@theorem=\count349
-\c@partCounter=\count350
-\c@homeworkProblemCounter=\count351
+\c@definition=\count471
+\c@lemma=\count472
+\c@corollary=\count473
+\c@theorem=\count474
+\c@proposition=\count475
+\c@partCounter=\count476
+\c@homeworkProblemCounter=\count477
+\@quotelevel=\count478
+\@quotereset=\count479
  (./equiv.aux)
 \openout1 = `equiv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 179.
-LaTeX Font Info:    ... okay on input line 179.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 179.
-LaTeX Font Info:    ... okay on input line 179.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 179.
-LaTeX Font Info:    ... okay on input line 179.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 179.
-LaTeX Font Info:    ... okay on input line 179.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 179.
-LaTeX Font Info:    ... okay on input line 179.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 179.
-LaTeX Font Info:    ... okay on input line 179.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 179.
-LaTeX Font Info:    ... okay on input line 179.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 179.
-LaTeX Font Info:    ... okay on input line 179.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 179.
-LaTeX Font Info:    ... okay on input line 179.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 184.
+LaTeX Font Info:    ... okay on input line 184.
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count352
+\scratchcounter=\count480
 \scratchdimen=\dimen287
 \scratchbox=\box134
-\nofMPsegments=\count353
-\nofMParguments=\count354
+\nofMPsegments=\count481
+\nofMParguments=\count482
 \everyMPshowfont=\toks56
-\MPscratchCnt=\count355
+\MPscratchCnt=\count483
 \MPscratchDim=\dimen288
-\MPnumerator=\count356
-\makeMPintoPDFobject=\count357
+\MPnumerator=\count484
+\makeMPintoPDFobject=\count485
 \everyMPtoPDFconversion=\toks57
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -719,7 +940,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 179.
+Package hyperref Info: Link coloring OFF on input line 184.
  (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
@@ -727,84 +948,112 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count358
+\c@section@level=\count486
 )
-LaTeX Info: Redefining \ref on input line 179.
-LaTeX Info: Redefining \pageref on input line 179.
-LaTeX Info: Redefining \nameref on input line 179.
+LaTeX Info: Redefining \ref on input line 184.
+LaTeX Info: Redefining \pageref on input line 184.
+LaTeX Info: Redefining \nameref on input line 184.
  (./equiv.out) (./equiv.out)
-\@outlinefile=\write5
-\openout5 = `equiv.out'.
+\@outlinefile=\write6
+\openout6 = `equiv.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 181.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (/usr/share/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `equiv.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'equiv.bbl' found.
+ (./equiv.bbl)
+Package biblatex Info: Reference section=0 on input line 184.
+Package biblatex Info: Reference segment=0 on input line 184.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 186.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 181.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 186.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 181.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 186.
  (/usr/share/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying to load font information for U+bbm on input line 217.
+LaTeX Font Info:    Trying to load font information for U+bbm on input line 222.
  (/usr/share/texmf-dist/tex/latex/bbm-macros/ubbm.fd
 File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
 )
-Underfull \hbox (badness 10000) in paragraph at lines 216--218
+Underfull \hbox (badness 10000) in paragraph at lines 221--223
 
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 298--299
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 339--340
+Underfull \hbox (badness 10000) in paragraph at lines 344--345
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 371--372
+Underfull \hbox (badness 10000) in paragraph at lines 376--377
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 435--438
+Underfull \hbox (badness 10000) in paragraph at lines 415--417
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 439--440
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
 
  []
 
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 441--442
+[5] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 526--529
 
  []
 
-[6] (./equiv.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 530--531
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--533
+
+ []
+
+[7] (./equiv.aux)
 Package rerunfilecheck Info: File `equiv.out' has not changed.
-(rerunfilecheck)             Checksum: B8457BDDD7E1CD5CD00108541426EBFF;1002.
+(rerunfilecheck)             Checksum: ECA8E9FD646762AC7E1C02BC89CD886A;1159.
+Package logreq Info: Writing requests to 'equiv.run.xml'.
+\openout1 = `equiv.run.xml'.
+
  ) 
 Here is how much of TeX's memory you used:
- 31932 strings out of 478238
- 693490 string characters out of 5850457
- 995578 words of memory out of 5000000
- 49671 multiletter control sequences out of 15000+600000
- 480260 words of font info for 74 fonts, out of 8000000 for 9000
+ 39068 strings out of 478238
+ 836439 string characters out of 5850457
+ 1545474 words of memory out of 5000000
+ 56748 multiletter control sequences out of 15000+600000
+ 480561 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,10n,103p,1581b,536s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/kyrem1/.texlive/texmf-var/fonts/pk/ljfour/public/bbm/bbm12.600pk>{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on equiv.pdf (6 pages, 216231 bytes).
+ 98i,18n,103p,1581b,1580s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/kyrem1/.texlive/texmf-var/fonts/pk/ljfour/public/bbm/bbm12.600pk>{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on equiv.pdf (7 pages, 244767 bytes).
 PDF statistics:
- 182 PDF objects out of 1000 (max. 8388607)
- 135 compressed objects within 2 object streams
- 25 named destinations out of 1000 (max. 500000)
- 77 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 213 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 85 words of extra memory for PDF output out of 10000 (max. 10000000)
 
